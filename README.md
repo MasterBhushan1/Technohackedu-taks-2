@@ -1,7 +1,7 @@
 <h1 align="center">🚢 Titanic Dataset Adventure 📊</h1>
 
 <p align="center">
-  <img src="titanic.jpg" alt="Titanic Ship" width="400">
+  <img src="[titanic.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Ftitanic-pictures&psig=AOvVaw3WuBTxvtTobYBKzxdOypFe&ust=1694962562540000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDH2N-xr4EDFQAAAAAdAAAAABAE)" alt="Titanic Ship" width="400">
 </p>
 
 ## Ahoy, Explorers! 🌊
